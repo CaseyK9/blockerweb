@@ -1,12 +1,11 @@
 // ==UserScript==
 // @name         WebsiteBlocker
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Hide Websites
 // @author       auro
 // @include      https://www.zoho.com/*
 // @include      https://www.teamviewer.com/*
-// @include      https://news.google.com/*
 // @updateURL    https://github.com/CaseyK9/blockerweb/raw/main/webblocker.user.js
 // @downloadURL  https://github.com/CaseyK9/blockerweb/raw/main/webblocker.user.js
 // @grant        none
